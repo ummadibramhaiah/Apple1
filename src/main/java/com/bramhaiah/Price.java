@@ -1,6 +1,6 @@
 package com.bramhaiah;
 
 public class Price {
-	int price=50;
+	int price=100;
 
 }
